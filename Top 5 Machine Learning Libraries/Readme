@@ -1,0 +1,7 @@
+Business generate a huge amount of data.  The data has tremendous value but there so much of it where do you begin to look for value that is actionable? That’s where the data scientist comes in.  The job of the data scientist is to create predictive models that can find hidden patterns in data that will give the business a competitive advantage in their space.
+
+A machine learning engineer is a person who builds predictive models, scores them and then puts them into production so that others in the company can consume or use their model.  They are usually skilled programmers that have a solid background in data mining or other data related professions and they have learned predictive modeling.
+
+In the course we are going to take a look at what machine learning engineers do. We are going to learn about the process of building supervised predictive models and build several using the most widely used programming language for machine learning. Python. There are literally hundreds of libraries we can import into Python that are machine learning related.
+
+A library is simply a group of code that lives outside the core language. We “import it” into our work space when we need to use its functionality. We can mix and match these libraries like Lego blocks.
