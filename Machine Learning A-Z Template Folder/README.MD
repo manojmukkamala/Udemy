@@ -1,4 +1,4 @@
-Applications of Machine Learning:
+__Applications of Machine Learning:__
 
 - Facial Recognition
 - Virtual Gaming (Random Forest)
@@ -12,7 +12,7 @@ Applications of Machine Learning:
 - Explore new territories such as Mars
 
 
-Machine Learning is the Future
+__Machine Learning is the Future__
 
 In the 21st century, data is everywhere. 
 - Until 2005 - Humans have created 130 Exabytes of Data.
